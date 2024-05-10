@@ -2,7 +2,7 @@
     {"estado": "MG", "municipio": "Belo Horizonte"},
     {"estado": "SP", "municipio": "Sao Paulo"},
     {"estado": "ES", "municipio": "Vitoria"},
-	{"estado": "RJ", "municipio": "Rio de Janeiro"},
+	{estado": "RJ", "municipio": "Rio de Janeiro"},
 	{"estado": "RS", "municipio": "Porto Alegre"},
 	{"estado": "SC", "municipio": "Florianopolis"},
 	{"estado": "PR", "municipio": "Curitiba"},
