@@ -1,6 +1,28 @@
 [
     {"estado": "MG", "municipio": "Belo Horizonte"},
-    {"estado": "SP", "municipio": "Campinas"},
-    {"estado": "SP", "municipio": "Sumare"},
-	{"estado": "RJ", "municipio": "Rio das Ostras"}
+    {"estado": "SP", "municipio": "Sao Paulo"},
+    {"estado": "ES", "municipio": "Vitoria"},
+	{"estado": "RJ", "municipio": "Rio de Janeiro"}
+	{"estado": "RS", "municipio": "Porto Alegre"}
+	{"estado": "SC", "municipio": "Florianopolis"}
+	{"estado": "PR", "municipio": "Curitiba"}
+	{"estado": "AC", "municipio": "Rio Branco"}
+	{"estado": "AL", "municipio": "Maceio"}
+	{"estado": "AP", "municipio": "Macapa"}
+	{"estado": "AM", "municipio": "Manaus"}
+	{"estado": "BA", "municipio": "Salvador"}
+	{"estado": "CE", "municipio": "Fortaleza"}
+	{"estado": "GO", "municipio": "Goiania"}
+	{"estado": "MA", "municipio": "Sao Luis"}
+	{"estado": "MT", "municipio": "Cuiaba"}
+	{"estado": "MS", "municipio": "Campo Grande"}
+	{"estado": "PA", "municipio": "Belem"}
+	{"estado": "PB", "municipio": "Joao Pessoa"}
+	{"estado": "PE", "municipio": "Recife"}
+	{"estado": "PI", "municipio": "Teresina"}
+	{"estado": "RN", "municipio": "Natal"}
+	{"estado": "RO", "municipio": "Porto Velho"}
+	{"estado": "RR", "municipio": "Boa Vista"}
+	{"estado": "SE", "municipio": "Aracaju"}
+	{"estado": "TO", "municipio": "Palmas"}
 ]
